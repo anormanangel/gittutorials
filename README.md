@@ -150,6 +150,6 @@ Gradio is a Python library that simplifies the process of creating and deploying
 
 # Conclusions
 
-This project enhanced my data science & analytics skills using Python to build machine learning models and and provided valuable insights to predict customer churn and optimize business processes. Businesses can make data-driven decision to identify customers at risk of churning and prevent them from churning thereby improving customer retention, increasing customer satisfaction, and preventing loss of revenue, 
+This project enhanced my data science & analytics skills using Python to build machine learning models and and provided valuable insights to predict customer churn and optimize business processes. Businesses can make data-driven decision to identify customers at risk of churning and prevent them from churning thereby improving customer retention, increasing customer satisfaction, and preventing loss of revenue. 
 
 
